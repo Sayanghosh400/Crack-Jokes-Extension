@@ -1,2 +1,2 @@
 # Crack-Jokes-Extension
- This is a google chrome extension for jokes
+ This is a browser extension for jokes
